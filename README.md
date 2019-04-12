@@ -34,7 +34,8 @@
       <br>
       <img src="file:///C:/Users/Kaitlynn/Pictures/GroupMe/GroupMe_2019117_112815.jpeg" />
       <br>
-      651 Vargo Rd, Farmington, MO 63640
+      <h4>Fallow us on Instagram at
+        https://www.instagram.com/4h_ppals/</h4>
     </p>
      
   </body>
