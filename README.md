@@ -32,7 +32,7 @@
       <img src="file:///C:/Users/Kaitlynn/Downloads/GroupMe_2019129_17422%20(2).jpeg" >
       <br>
       <br>
-      <img src="https://photos.smugmug.com/Other/LEW-Garden-at-Engler/Summer-2013-LEW-Memorial/i-6G6mtkL/1/2f4ad03f/L/DSC_1565-L.jpg" />
+      <img src="file:///C:/Users/Kaitlynn/Pictures/GroupMe/GroupMe_2019117_112815.jpeg" />
       <br>
       651 Vargo Rd, Farmington, MO 63640
     </p>
