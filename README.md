@@ -23,7 +23,7 @@
     <p>
      <strong> Welcome to 4-H PPALS website!</strong>
       <br>
-      PPALS is a nonprofit 4-H group that has a community action plan to help inform the public about over population of pets.
+      PPALS is a nonprofit 4-H group that has a community action plan to help inform the public about overpopulation of pets.
       <br>
       <br>
       <img src="">
@@ -37,7 +37,7 @@
       
       <a herf="https://urlzs.com/AW8y">Fallow us on Facebook</a>
       <br>
-      <a href="https://www.instagram.com/4h_ppals/">Fallow us on Instagram</a>
+      <a href="https://www.instagram.com/4h_ppals/">Follow us on Instagram</a>
   
        
        
