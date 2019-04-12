@@ -15,7 +15,7 @@
     
   </head>
   <body>
-    <h1>ENGLER PARK</h1>
+    <h1>We are PPALS</h1>
     <h3>Farmington, MO</h3>
     <a href="index.html">Home</a>
     <a href="info.html">Info</a>
