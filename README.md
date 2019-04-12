@@ -34,7 +34,7 @@
       <br>
       <img src="https://www.facebook.com/294691431214193/photos/a.294698214546848/294698191213517/?type=3&theater" >
       <br>
-      <h4>Fallow us on Instagram at
+  <h4>Fallow us on Instagram at</h4>
         https://www.instagram.com/4h_ppals/ 
         <br>
         & Facebook at https://urlzs.com/AW8y</h4>
