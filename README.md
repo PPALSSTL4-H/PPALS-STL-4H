@@ -32,7 +32,7 @@
       <img src="file:///C:/Users/Kaitlynn/Downloads/GroupMe_2019129_17422%20(2).jpeg" >
       <br>
       <br>
-      <img src="file:///C:/Users/Kaitlynn/Pictures/GroupMe/GroupMe_2019117_112815.jpeg" />
+      <img src="https://www.facebook.com/294691431214193/photos/a.294698214546848/294698191213517/?type=3&theater" >
       <br>
       <h4>Fallow us on Instagram at
         https://www.instagram.com/4h_ppals/ 
