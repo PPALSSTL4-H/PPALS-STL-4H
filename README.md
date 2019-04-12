@@ -34,7 +34,7 @@
       <br>
       <img src="https://www.facebook.com/294691431214193/photos/a.294698214546848/294698191213517/?type=3&theater" >
       <br>
-      <h4> Fallow us on Instagram<a href=" https://www.instagram.com/4h_ppals/"></a>
+      <a href=" https://www.instagram.com/4h_ppals/"></a>
   
         
        
