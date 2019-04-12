@@ -18,10 +18,6 @@
     <h1>We are PPALS</h1>
     <h3>Which stands for Preventing Population of Animals Living on Streets.</h3>
     <a href="index.html">Home</a>
-    <a href="info.html">Info</a>
-    <a href="flowers.html">Flowers</a>
-    <a href="butterflies.html">Butterflies</a>
-    <a href="map.html">Map</a>
     <a href="reach%20us.html">Reach Us</a>
     <h2>HOME</h2>
     <p>
