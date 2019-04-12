@@ -35,7 +35,9 @@
       <img src="file:///C:/Users/Kaitlynn/Pictures/GroupMe/GroupMe_2019117_112815.jpeg" />
       <br>
       <h4>Fallow us on Instagram at
-        https://www.instagram.com/4h_ppals/ & Facebook at https://urlzs.com/AW8y</h4>
+        https://www.instagram.com/4h_ppals/ 
+        <br>
+        & Facebook at https://urlzs.com/AW8y</h4>
     </p>
      
   </body>
