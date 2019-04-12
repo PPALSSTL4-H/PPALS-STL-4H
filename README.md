@@ -21,7 +21,7 @@
     <a href="reach%20us.html">Reach Us</a>
     <h2>HOME</h2>
     <p>
-     <strong> Welcome to Engler Park, Farmington, Missouri's website!</strong>
+     <strong> Welcome to 4-H PPALS website!</strong>
       <br>
       This is a website to showcase the nature, wildlife, and information of the park. Click the tabs to get started.
       <br>
