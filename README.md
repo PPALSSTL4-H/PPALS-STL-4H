@@ -23,7 +23,7 @@
     <p>
      <strong> Welcome to 4-H PPALS website!</strong>
       <br>
-      This is a website to showcase the nature, wildlife, and information of the park. Click the tabs to get started.
+      PPALS is a nonprofit 4-H group that has a community action plan to help inform the public about over population of pets.
       <br>
       <br>
       <img src="https://parklandhub.com/wp-content/uploads/2017/03/englerpark20-1024x682.jpg">
