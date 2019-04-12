@@ -26,10 +26,10 @@
       PPALS is a nonprofit 4-H group that has a community action plan to help inform the public about over population of pets.
       <br>
       <br>
-      <img src="https://parklandhub.com/wp-content/uploads/2017/03/englerpark20-1024x682.jpg">
+      <img src="">
       <br>
       <br>
-      <img src="https://photos.smugmug.com/Other/LEW-Garden-at-Engler/Summer-2013-LEW-Memorial/i-r2bb9Fm/0/f4094770/L/DSC_1561-L.jpg" >
+      <img src="file:///C:/Users/Kaitlynn/Downloads/GroupMe_2019129_17422%20(2).jpeg" >
       <br>
       <br>
       <img src="https://photos.smugmug.com/Other/LEW-Garden-at-Engler/Summer-2013-LEW-Memorial/i-6G6mtkL/1/2f4ad03f/L/DSC_1565-L.jpg" />
